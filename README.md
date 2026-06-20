@@ -48,6 +48,9 @@ The `MovementPatterns` class in this project was generated with the assistance o
 
 The `WaveProgressions` class in this project was generated with the assistance of [OpenAI's language model](https://openai.com). The AI provided the initial implementation and structure for this class.
 
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
